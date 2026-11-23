@@ -1,0 +1,12 @@
+{
+  "name": "money-heist-scanner",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Money Heist — AI-assisted trading chart screenshot analysis for educational use.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
